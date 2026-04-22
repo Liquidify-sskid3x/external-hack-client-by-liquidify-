@@ -3,7 +3,7 @@
 ![Java](https://img.shields.io/badge/Java-8%2B-orange)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)
-
+# THIS ONLY WORKS ON 1.21.11 UNOBFUSCATED, NOT FABRIC OR FORGE OR VANILLA, 1.21.11 UNOBFUSCATED.
 A Java-based external game modification client for Minecraft featuring ESP overlay, combat automation, and movement enhancements.
 
 ## ⚠️ Legal Disclaimer
