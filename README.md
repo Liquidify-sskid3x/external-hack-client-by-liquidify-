@@ -37,7 +37,7 @@ A Java-based external game modification client for Minecraft featuring ESP overl
 
 ## Features
 
-### 🎯 Combat Modules
+###  Combat Modules
 
 - **KillAura** - Automated combat system with configurable range and attack delay
   - Adjustable attack range (3.0-6.0 blocks)
@@ -49,7 +49,7 @@ A Java-based external game modification client for Minecraft featuring ESP overl
   - Adjustable speed (0.1-1.0)
   - Natural-looking aim smoothing
 
-### 👁️ Visual Modules
+###  Visual Modules
 
 - **ESP (Entity ESP)** - External overlay window displaying entity information
   - Real-time 3D bounding boxes
@@ -61,7 +61,7 @@ A Java-based external game modification client for Minecraft featuring ESP overl
   - Instant toggle on/off
   - Preserves original gamma settings
 
-### 🏃 Movement Modules
+### Movement Modules
 
 - **Fly** - Creative-style flight in survival mode
   - Toggle flight ability
